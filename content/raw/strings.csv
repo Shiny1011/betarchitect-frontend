@@ -1,0 +1,140 @@
+key,en-GB,fr-CA,fr-FR,nl-BE,de-CH
+auth.forgotPassword.email,Email,Courriel,E-mail,E-mail,E-Mail
+auth.forgotPassword.errorMessage,Something went wrong. Please try again.,Une erreur s'est produite. Veuillez réessayer.,Une erreur s'est produite. Veuillez réessayer.,Er is een fout opgetreden. Probeer het opnieuw.,Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.
+auth.forgotPassword.resetSuccess,A password reset link has been sent to your email,Un lien de réinitialisation du mot de passe a été envoyé à votre courriel,Un lien de réinitialisation du mot de passe a été envoyé à votre e-mail,Een wachtwoord reset link is naar je e-mail gestuurd,Ein Link zum Zurücksetzen des Passworts wurde an Ihre E-Mail gesendet
+auth.forgotPassword.subtitle,Enter the address provided during registration,Entrez l'adresse fournie lors de l'inscription,Entrez l'adresse fournie lors de l'inscription,Voer het adres in dat je bij registratie hebt opgegeven,Geben Sie die bei der Registrierung angegebene Adresse ein
+auth.forgotPassword.title,Forgot password?,Mot de passe oublié ?,Mot de passe oublié ?,Wachtwoord Vergeten?,Passwort vergessen?
+auth.login.btn,Login,Connexion,Connexion,Inloggen,Anmelden
+auth.login.email,Email,Courriel,E-mail,E-mail,E-Mail
+auth.login.errorMessage,Invalid email or password,Courriel ou mot de passe invalide,E-mail ou mot de passe invalide,Ongeldig e-mailadres of wachtwoord,Ungültige E-Mail oder Passwort
+auth.login.forgotPassword,Forgot your password?,Mot de passe oublié ?,Mot de passe oublié ?,Wachtwoord vergeten?,Passwort vergessen?
+auth.login.noAccount,Don't you have an account?,Vous n'avez pas de compte ?,Vous n'avez pas de compte ?,Geen account?,Kein Konto?
+auth.login.password,Password,Mot de passe,Mot de passe,Wachtwoord,Passwort
+auth.login.title,Welcome back!,Bon retour !,Bon retour !,Welkom terug!,Willkommen zurück!
+auth.signup.birthday,Date of Birth,Date de naissance,Date de naissance,Geboortedatum,Geburtsdatum
+auth.signup.btn,Sign Up,S'inscrire,S'inscrire,Registreren,Registrieren
+auth.signup.confirmPassword,Confirm Password,Confirmer le mot de passe,Confirmer le mot de passe,Bevestig Wachtwoord,Passwort bestätigen
+auth.signup.country,Country,Pays,Pays,Land,Land
+auth.signup.create,Create account,Créer un compte,Créer un compte,Account Aanmaken,Konto erstellen
+auth.signup.createSuccess,Your account has been successfully created,Votre compte a été créé avec succès,Votre compte a été créé avec succès,Je account is succesvol aangemaakt,Ihr Konto wurde erfolgreich erstellt
+auth.signup.detailsTitle,Complete a few more details to personalize your profile,Complétez quelques détails supplémentaires pour personnaliser votre profil,Complétez quelques détails supplémentaires pour personnaliser votre profil,Vul enkele aanvullende gegevens in om je profiel te personaliseren,"Vervollständigen Sie einige zusätzliche Details, um Ihr Profil zu personalisieren"
+auth.signup.email,Email,Courriel,E-mail,E-mail,E-Mail
+auth.signup.errorMessage,Something went wrong. Please try again.,Une erreur s'est produite. Veuillez réessayer.,Une erreur s'est produite. Veuillez réessayer.,Er is een fout opgetreden. Probeer het opnieuw.,Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.
+auth.signup.firstName,Name,Prénom,Prénom,Voornaam,Vorname
+auth.signup.hasAccount,Have an account?,Vous avez un compte ?,Vous avez un compte ?,Heb je een account?,Haben Sie ein Konto?
+auth.signup.hintPassword,Must be at least 8 characters long,Doit contenir au moins 8 caractères,Doit contenir au moins 8 caractères,Moet minstens 8 tekens bevatten,Muss mindestens 8 Zeichen enthalten
+auth.signup.lastName,Last name,Nom de famille,Nom,Achternaam,Nachname
+auth.signup.marketingAgreement,I agree to receive marketing messages and promotional offers via email,J'accepte de recevoir des messages marketing et des offres promotionnelles par courriel,J'accepte de recevoir des messages marketing et des offres promotionnelles par e-mail,Ik ga akkoord met het ontvangen van marketingberichten en promotieaanbiedingen via e-mail,"Ich stimme zu, Marketing-Nachrichten und Werbeangebote per E-Mail zu erhalten"
+auth.signup.nickname,Username,Nom d'utilisateur,Nom d'utilisateur,Gebruikersnaam,Benutzername
+auth.signup.notMatchPass,Password don't match,Les mots de passe ne correspondent pas,Les mots de passe ne correspondent pas,Wachtwoorden komen niet overeen,Passwörter stimmen nicht überein
+auth.signup.password,Password,Mot de passe,Mot de passe,Wachtwoord,Passwort
+auth.signup.phoneNumber,Phone number,Numéro de téléphone,Numéro de téléphone,Telefoonnummer,Telefonnummer
+auth.signup.promoCode,Enter the promo code (optional),Entrez le code promo (optionnel),Entrez le code promo (optionnel),Voer promocode in (optioneel),Promocode eingeben (optional)
+auth.signup.termsAgreement,I am over 18 years old and I accept the agreement with <link>Terms and conditions</link>,J'ai plus de 18 ans et j'accepte les <link>Conditions générales</link>,J'ai plus de 18 ans et j'accepte les <link>Conditions générales</link>,Ik ben ouder dan 18 jaar en ga akkoord met de <link>Algemene Voorwaarden</link>,Ich bin über 18 Jahre alt und stimme den <link>Allgemeinen Geschäftsbedingungen</link> zu
+auth.signup.title,Join Casinade and start your winning journey today!,Rejoignez Casinade et commencez votre parcours gagnant dès aujourd'hui !,Rejoignez Casinade et commencez votre parcours gagnant dès aujourd'hui !,Word lid van Casinade en begin vandaag je winnende reis!,Treten Sie Casinade bei und beginnen Sie heute Ihre Gewinner-Reise!
+buttons.attach,Attach,Attacher,Joindre,Bijvoegen,Anhängen
+buttons.back,Go Back,Retour,Retour,Terug,Zurück
+buttons.cancel,Cancel,Annuler,Annuler,Annuleren,Abbrechen
+buttons.change,Change,Changer,Modifier,Wijzigen,Ändern
+buttons.claim,Claim,Réclamer,Réclamer,Claimen,Beanspruchen
+buttons.confirm,Confirm,Confirmer,Confirmer,Bevestigen,Bestätigen
+buttons.deposit,Deposit,Dépôt,Dépôt,Storten,Einzahlen
+buttons.edit,Edit,Modifier,Modifier,Bewerken,Bearbeiten
+buttons.forfeit,Forfeit,Abandonner,Abandonner,Opgeven,Aufgeben
+buttons.resend,Resend,Renvoyer,Renvoyer,Opnieuw versturen,Erneut senden
+buttons.save,Save,Sauvegarder,Enregistrer,Opslaan,Speichern
+buttons.send,Send,Envoyer,Envoyer,Versturen,Senden
+buttons.verify,Verify,Vérifier,Vérifier,Verifiëren,Verifizieren
+buttons.withdraw,Withdraw,Retrait,Retrait,Opnemen,Abheben
+buttons.details,See Details,Voir les détails,Voir les détails,Bekijk Details,Details anzeigen
+buttons.claimBonus,Claim Bonus,Réclamer le bonus,Réclamer le bonus,Bonus claimen,Bonus beanspruchen
+buttons.add,Add,Ajouter,Ajouter,Toevoegen,Hinzufügen
+common.currency.title,Currency,Devise,Devise,Valuta,Währung
+common.currency.names.Euro,Euro,Euro,Euro,Euro,Euro
+common.currency.names.Australian Dollar,Australian Dollar,Dollar australien,Dollar australien,Australische Dollar,Australischer Dollar
+common.currency.names.Canadian Dollar,Canadian Dollar,Dollar canadien,Dollar canadien,Canadese Dollar,Kanadischer Dollar
+common.currency.names.Czech Koruna,Czech Koruna,Couronne tchèque,Couronne tchèque,Tsjechische Kroon,Tschechische Krone
+common.currency.names.Romanian Leu,Romanian Leu,Leu roumain,Leu roumain,Roemeense Leu,Rumänischer Leu
+common.currency.names.US Dollar,US Dollar,Dollar américain,Dollar américain,Amerikaanse Dollar,US-Dollar
+common.currency.names.British Pound,British Pound,Livre sterling,Livre sterling,Brits Pond,Britisches Pfund
+common.currency.names.Swiss Franc,Swiss Franc,Franc suisse,Franc suisse,Zwitserse Frank,Schweizer Franken
+common.currency.names.Japanese Yen,Japanese Yen,Yen japonais,Yen japonais,Japanse Yen,Japanischer Yen
+common.currency.names.Polish Zloty,Polish Zloty,Zloty polonais,Zloty polonais,Poolse Złoty,Polnischer Złoty
+common.currency.names.Hungarian Forint,Hungarian Forint,Forint hongrois,Forint hongrois,Hongaarse Forint,Ungarischer Forint
+common.greetings.welcome,Welcome to Casinade!,Bienvenue chez Casinade !,Bienvenue chez Casinade !,Welkom bij Casinade!,Willkommen bei Casinade!
+common.language.title,Language,Langue,Langue,Taal,Sprache
+common.noResults.noCountryFound,No countries found,Aucun pays trouvé,Aucun pays trouvé,Geen land gevonden,Kein Land gefunden
+common.time.left,Time Left,Temps restant,Temps restant,Tijd over,Zeit übrig
+common.notification.forfeitError,Error forfeiting bonus. Please try again.,Erreur lors de l'abandon du bonus. Veuillez réessayer.,Erreur lors de l'abandon du bonus. Veuillez réessayer.,Fout bij het opgeven van bonus. Probeer het opnieuw.,Fehler beim Aufgeben des Bonus. Bitte versuchen Sie es erneut.
+common.notification.forfeitSuccess,Bonus has been successfully forfeited.,Le bonus a été abandonné avec succès.,Le bonus a été abandonné avec succès.,Bonus is succesvol opgegeven.,Bonus wurde erfolgreich aufgegeben.
+common.notification.currencyAddError,Error adding currency. Please try again.,Erreur lors de l'ajout de la devise. Veuillez réessayer.,Erreur lors de l'ajout de la devise. Veuillez réessayer.,Fout bij het toevoegen van de valuta. Probeer het opnieuw.,Fehler beim Hinzufügen der Währung. Bitte versuchen Sie es erneut.
+common.notification.walletLoadError,Error loading wallet: {message},Erreur lors du chargement du portefeuille : {message},Erreur lors du chargement du portefeuille : {message},Fout bij het laden van de wallet: {message},Fehler beim Laden der Wallet: {message}
+form.fields.birthday,Date of Birth,Date de naissance,Date de naissance,Geboortedatum,Geburtsdatum
+form.fields.confirmPassword,Confirm Password,Confirmer le mot de passe,Confirmer le mot de passe,Bevestig Wachtwoord,Passwort bestätigen
+form.fields.country,Country,Pays,Pays,Land,Land
+form.fields.email,Email,Courriel,E-mail,E-mail,E-Mail
+form.fields.firstName,Name,Prénom,Prénom,Voornaam,Vorname
+form.fields.lastName,Last name,Nom de famille,Nom,Achternaam,Nachname
+form.fields.password,Password,Mot de passe,Mot de passe,Wachtwoord,Passwort
+form.fields.phone,Phone number,Numéro de téléphone,Numéro de téléphone,Telefoonnummer,Telefonnummer
+form.fields.username,Username,Nom d'utilisateur,Nom d'utilisateur,Gebruikersnaam,Benutzername
+meta.description,Generated by create next app,Généré par create next app,Généré par create next app,Gegenereerd door create next app,Erstellt von create next app
+meta.title,Casinade,Casinade,Casinade,Casinade,Casinade
+verification.failed.subtitle,Please try again.,Veuillez réessayer.,Veuillez réessayer.,Probeer het opnieuw.,Bitte versuchen Sie es erneut.
+verification.failed.title,Verification failed,Échec de la vérification,Échec de la vérification,Verificatie mislukt,Verifizierung fehlgeschlagen
+verification.otp.codeSent,Please enter the code sent to <p>{phone}</p>,Veuillez entrer le code envoyé à <p>{phone}</p>,Veuillez entrer le code envoyé à <p>{phone}</p>,Voer de code in die naar <p>{phone}</p> is gestuurd,Bitte geben Sie den Code ein der an <p>{phone}</p> gesendet wurde
+verification.otp.confirmPhone,Confirm your phone number and enjoy exclusive bonuses,Confirmez votre numéro de téléphone et profitez de bonus exclusifs,Confirmez votre numéro de téléphone et profitez de bonus exclusifs,Bevestig je telefoonnummer en geniet van exclusieve bonussen,Bestätigen Sie Ihre Telefonnummer und genießen Sie exklusive Boni
+verification.otp.emailInfo,If your email is valid a verification link will have been sent to <p>{email}</p> If you don't see it check your Spam folder,Si votre courriel est valide un lien de vérification aura été envoyé à <p>{email}</p> Si vous ne le voyez pas vérifiez votre dossier Spam,Si votre e-mail est valide un lien de vérification aura été envoyé à <p>{email}</p> Si vous ne le voyez pas vérifiez votre dossier Spam,Als je e-mail geldig is is er een verificatielink gestuurd naar <p>{email}</p> Als je deze niet ziet controleer je spammap,Wenn Ihre E-Mail gültig ist wurde ein Verifizierungslink an <p>{email}</p> gesendet Wenn Sie ihn nicht sehen überprüfen Sie Ihren Spam-Ordner
+verification.otp.emailSubtitle,Please verify your email to withdraw funds,Veuillez vérifier votre courriel pour retirer des fonds,Veuillez vérifier votre e-mail pour retirer des fonds,Verifieer je e-mail om geld op te nemen,Bitte verifizieren Sie Ihre E-Mail um Geld abzuheben
+verification.otp.emailTitle,Verify email,Vérifier le courriel,Vérifier l'e-mail,E-mail verifiëren,E-Mail verifizieren
+verification.otp.initEmailVerifyTitle,Verify your new email to save changes,Vérifiez votre nouveau courriel pour sauvegarder les modifications,Vérifiez votre nouvel e-mail pour sauvegarder les modifications,Verifieer je nieuwe e-mail om wijzigingen op te slaan,Verifizieren Sie Ihre neue E-Mail um Änderungen zu speichern
+verification.otp.initVerification,Verify your phone number to save changes,Vérifiez votre numéro de téléphone pour sauvegarder les modifications,Vérifiez votre numéro de téléphone pour sauvegarder les modifications,Verifieer je telefoonnummer om wijzigingen op te slaan,Verifizieren Sie Ihre Telefonnummer um Änderungen zu speichern
+verification.otp.resend,resend in,renvoyer dans,renvoyer dans,opnieuw versturen in,erneut senden in
+verification.otp.resendCode,you can resend the code in,vous pouvez renvoyer le code dans,vous pouvez renvoyer le code dans,je kunt de code opnieuw versturen in,Sie können den Code erneut senden in
+verification.otp.title,Verify phone number,Vérifier le numéro de téléphone,Vérifier le numéro de téléphone,Telefoonnummer verifiëren,Telefonnummer verifizieren
+verification.otp.error,Invalid or expired verification code!,Code de vérification invalide ou expiré !,Code de vérification invalide ou expiré !,Ongeldige of verlopen verificatiecode!,Ungültiger oder abgelaufener Verifizierungscode!
+verification.success.emailVerifiedTitle,Your Email Address has been verified,Votre adresse courriel a été vérifiée,Votre adresse e-mail a été vérifiée,Je e-mailadres is geverifieerd,Ihre E-Mail-Adresse wurde verifiziert
+verification.success.phoneVerifiedTitle,Your phone number has been verified,Votre numéro de téléphone a été vérifié,Votre numéro de téléphone a été vérifié,Je telefoonnummer is geverifieerd,Ihre Telefonnummer wurde verifiziert
+verification.success.verifiedSubtitle,You can now continue to your account.,Vous pouvez maintenant continuer vers votre compte.,Vous pouvez maintenant continuer vers votre compte.,Je kunt nu doorgaan naar je account.,Sie können nun zu Ihrem Konto weiterfahren.
+modal.title.withdrawalUnavailable,Withdrawal unavailable,Retrait indisponible,Retrait indisponible,Opname niet beschikbaar,Auszahlung nicht verfügbar
+modal.title.newCurrency,New currency,Nouvelle devise,Nouvelle devise,Nieuwe valuta,Neue Währung
+modal.title.searchPlaceholder,Search,Recherche,Recherche,Zoeken,Suchen
+modal.text.withdrawalUnavailable,"Your account verification is not yet completed. Please finalize the verification process to enable withdrawals.","La vérification de votre compte n'est pas encore terminée. Veuillez finaliser le processus de vérification pour permettre les retraits.","La vérification de votre compte n'est pas encore terminée. Veuillez finaliser le processus de vérification pour permettre les retraits.","Je accountverificatie is nog niet voltooid. Voltooi het verificatieproces om opnames mogelijk te maken.","Ihre Kontoverifizierung ist noch nicht abgeschlossen. Bitte schließen Sie den Verifizierungsprozess ab, um Auszahlungen zu ermöglichen."
+modal.text.noResultsFound,No currencies match your search.,Aucune devise ne correspond à votre recherche.,Aucune devise ne correspond à votre recherche.,Geen valuta's komen overeen met je zoekopdracht.,Keine Währungen stimmen mit Ihrer Suche überein.
+page.account.title.newCurrencyBtn,New currency,Nouvelle devise,Nouvelle devise,Nieuwe valuta,Neue Währung
+page.account.title.currencyTypeFiat,Fiat,Fiat,Fiat,Fiat,Fiat
+page.account.title.currencyTypeCrypto,Crypto,Crypto,Crypto,Crypto,Krypto
+page.account.title.totalBalance,Total Balance,Solde total,Solde total,Totaal saldo,Gesamtsaldo
+page.account.title.verification,Verification,Vérification,Vérification,Verificatie,Verifizierung
+page.account.title.docTypePassport,Passport,Passeport,Passeport,Paspoort,Reisepass
+page.account.title.docTypeID,ID Card,Carte d'identité,Carte d'identité,ID-kaart,Personalausweis
+page.account.title.attachPassport,Attach your Passport,Joindre votre passeport,Joindre votre passeport,Voeg je Paspoort toe,Fügen Sie Ihren Reisepass hinzu
+page.account.title.attachIDFront,ID Front,Avant de la carte d'identité,Avant de la carte d'identité,ID Voorkant,Ausweis Vorderseite
+page.account.title.attachIDBack,ID Back,Arrière de la carte d'identité,Arrière de la carte d'identité,ID Achterkant,Ausweis Rückseite
+page.account.title.attachAddress,Attach proof of your Address,Joindre une preuve de votre adresse,Joindre une preuve de votre adresse,Voeg bewijs van je Adres toe,Fügen Sie Ihren Adressnachweis hinzu
+page.account.title.attached,(Attached),(Joint),(Joint),(Toegevoegd),(Angehängt)
+page.account.title.password,Password,Mot de passe,Mot de passe,Wachtwoord,Passwort
+page.account.title.oldPassword,Old Password,Ancien mot de passe,Oud Wachtwoord,Oud Wachtwoord,Altes Passwort
+page.account.title.newPassword,New Password,Nouveau mot de passe,Nouveau mot de passe,Nieuw Wachtwoord,Neues Passwort
+page.account.title.activeSessions,Active sessions,Sessions actives,Sessions actives,Actieve sessies,Aktive Sitzungen
+page.account.title.terminateAllSessions,Terminate all sessions,Terminer toutes les sessions,Terminer toutes les sessions,Beëindig alle sessies,Alle Sitzungen beenden
+page.account.text.walletLoading,Wallet data is loading...,Chargement des données du portefeuille...,Chargement des données du portefeuille...,Wallet gegevens worden geladen...,Wallet-Daten werden geladen...
+page.account.text.addingCurrency,Adding currency...,Ajout de la devise...,Ajout de la devise...,Valuta wordt toegevoegd...,Währung wird hinzugefügt...
+page.account.text.verificationSubtitle,Verify your account to unlock all features,Vérifiez votre compte pour déverrouiller toutes les fonctionnalités,Vérifiez votre compte pour déverrouiller toutes les fonctionnalités,Verifieer je account om alle functies te ontgrendelen,"Verifizieren Sie Ihr Konto, um alle Funktionen freizuschalten"
+page.account.text.passwordSubtitle,"Choose a password with letters and numbers that you will remember, but others won't guess","Choisissez un mot de passe avec des lettres et des chiffres dont vous vous souviendrez, mais que les autres ne pourront pas deviner","Choisissez un mot de passe avec des lettres et des chiffres dont vous vous souviendrez, mais que les autres ne pourront pas deviner","Kies een wachtwoord met letters en cijfers dat je zult onthouden, maar dat anderen niet zullen raden","Wählen Sie ein Passwort mit Buchstaben und Zahlen, das Sie sich merken können, das aber andere nicht erraten werden"
+page.account.text.sessionsSubtitle,Number of active sessions on devices,Nombre de sessions actives sur les appareils,Nombre de sessions actives sur les appareils,Aantal actieve sessies op apparaten,Anzahl aktiver Sitzungen auf Geräten
+page.account.text.kycAttachHint,Attach all required documents to enable sending.,Joindre tous les documents requis pour permettre l'envoi.,Joindre tous les documents requis pour permettre l'envoi.,Voeg alle vereiste documenten toe om verzending mogelijk te maken.,"Fügen Sie alle erforderlichen Dokumente bei, um das Senden zu ermöglichen."
+page.account.text.kycAttached,Documents attached.,Documents joints.,Documents joints.,Documenten toegevoegd.,Dokumente angehängt.
+page.account.text.kycReadyToSend,Ready to submit.,Prêt à être envoyé.,Prêt à être envoyé.,Klaar om in te dienen.,Bereit zum Senden.
+page.account.text.kycSuccessSubmit,Documents submitted successfully. Waiting for verification.,Documents soumis avec succès. En attente de vérification.,Documents soumis avec succès. En attente de vérification.,Documenten succesvol ingediend. Wachten op verificatie.,Dokumente erfolgreich eingereicht. Warten auf Verifizierung.
+page.account.text.kycPendingReview,Documents are already submitted and pending review.,Les documents sont déjà soumis et en attente de révision.,Les documents sont déjà soumis et en attente de révision.,Documenten zijn al ingediend en wachten op beoordeling.,Dokumente sind bereits eingereicht und warten auf Überprüfung.
+page.account.text.kycDefaultError,Error submitting documents. Please try again later.,Erreur lors de la soumission des documents. Veuillez réessayer plus tard.,Erreur lors de la soumission des documents. Veuillez réessayer plus tard.,Fout bij het indienen van documenten. Probeer het later opnieuw.,Fehler beim Einreichen von Dokumenten. Bitte versuchen Sie es später erneut.
+page.account.text.kycUploadFailed,Upload failed.,Échec du téléchargement.,Échec du téléchargement.,Upload mislukt.,Upload fehlgeschlagen.
+page.account.sidebar.profile,Profile,Profil,Profil,Profiel,Profil
+page.account.sidebar.bonus,Bonus,Bonus,Bonus,Bonus,Bonus
+page.account.sidebar.wallet,Wallet,Portefeuille,Portefeuille,Wallet,Wallet
+page.account.sidebar.security,Security,Sécurité,Sécurité,Beveiliging,Sicherheit
+page.account.sidebar.history,History,Historique,Historique,Geschiedenis,Verlauf
+page.account.sidebar.limits,Gambling Limits,Limites de jeu,Limites de jeu,Goklimieten,Spiellimits
+page.account.sidebar.exclusion,Self Exclusion,Auto-exclusion,Auto-exclusion,Zelfuitsluiting,Selbstausschluss
+page.account.sidebar.logout,Log Out,Déconnexion,Déconnexion,Uitloggen,Abmelden

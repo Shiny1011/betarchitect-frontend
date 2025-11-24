@@ -1,0 +1,124 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-dark-indigo: #0c1423;
+  --color-blue-indigo: #182641;
+  --color-lemon-yellow: #e0fe08;
+  --color-lavander: #97b9ff;
+  --font-geologica: var(--font-geologica);
+  --leading-full: 100%;
+  --breakpoint-1440: 1440px;
+  --animate-fade-in-up-sidebar: fade-in-up-sidebar 0.4s ease-in-out 0.2s 1;
+}
+
+@keyframes fade-in-up-sidebar {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 30px, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: var(--color-blue-indigo);
+    --foreground: var(--color-dark-indigo);
+  }
+}
+
+body {
+  background: var(--color-blue-indigo);
+  color: var(--color-lemon-yellow);
+  font-family: var(--font-geologica);
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar utility: Firefox/legacy support */
+.hide-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge legacy */
+}
+
+/* Mobile optimization */
+@media screen and (max-width: 768px) {
+  input[type='text'],
+  input[type='email'],
+  input[type='tel'],
+  input[type='password'],
+  textarea,
+  select {
+    font-size: 16px;
+  }
+
+  /* Fix for modal on mobile */
+  .modal-content {
+    max-height: calc(100vh - 2rem);
+    margin: 1rem;
+  }
+}
+
+/* Touch action optimization */
+* {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+button {
+  cursor: pointer;
+}
+
+div {
+  line-height: 1.25;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0c1423;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #22355a;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #22355a;
+}
+
+/* Fix Headless UI dropdowns in Radix Dialog */
+[data-headlessui-portal] {
+  pointer-events: auto !important;
+  z-index: 99999 !important;
+}
+/* Allow events inside Headless UI portal elements */
+[data-headlessui-portal] * {
+  pointer-events: auto !important;
+}
+/* Explicitly allow scroll for Headless UI ComboboxOptions */
+[data-headlessui-state] {
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+}
